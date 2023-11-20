@@ -1,0 +1,3 @@
+# Calculator
+My first project of JavaScript...a CALCULATOR...
+<p>You can find it live at 👉<a href="https://huzaifa-calculator.surge.sh/">Calculator by Syed Huzaifa Nazim</a></p>
